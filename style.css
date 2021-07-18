@@ -1,0 +1,62 @@
+body {
+  background-color: beige
+}
+
+li a { 
+  display: inline;
+}
+
+
+ul {
+  list-style-type: circle;
+  margin: 5px;
+  padding: 5px;
+  overflow: hidden;
+  background-color: blanchedalmond;
+}
+
+h1 { 
+  text-align: center
+}
+
+h2 {
+  text-align: center
+}
+
+h3 {
+  text-align: center
+}
+
+#wrapper { 
+  width:80%
+  margin-left: auto;
+  box-shadow: 10px 10px;
+  background-color: bisque
+}
+
+div{
+  width:90%
+  margin: auto;
+}
+
+.itembox {
+  border-syle: solid;
+  border-radius: 2px;
+  box-shadow: 10px 10px;
+  background-color: gray;
+  color: blue;
+  padding: 25px;
+}
+
+.favorite {
+  border-style: solid; 
+  background-color: burlywood;
+  color: cornflowerblue
+}
+
+ol { 
+  background: #91EEAC;
+  padding: 30px;
+  list-style-type: circle;
+}
+
